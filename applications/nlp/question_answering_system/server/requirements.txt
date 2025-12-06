@@ -1,4 +1,4 @@
-PyMySQL==1.0.2
+PyMySQL==1.1.1
 uvicorn
 numpy
 pymilvus==2.2.11
